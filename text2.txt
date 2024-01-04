@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a e i o u
+=======
+bbbbb
+>>>>>>> new-plot
